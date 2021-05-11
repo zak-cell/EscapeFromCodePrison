@@ -2,13 +2,22 @@
      background-color: antiquewhite;  /* This sets the background color for the entire page */ 
  }
 
- h1 {
+ h1 {                                   /* This declares what modifications need to be done to h1 */
      color: red;
+     background-color : black;
+     padding: 100px;
+     width : 1305px;
+     text-align: center;
+     font-size: 50px;
+     
      
  }
 
- p { 
+ p {                                    /* Just Changing the font-type here and Justifying alingment */
      font-family: Arial, Helvetica, sans-serif;
+     padding: 5px;
+     text-align: justify;
+
  }
 
 
