@@ -1,0 +1,14 @@
+ body {
+     background-color: antiquewhite;  /* This sets the background color for the entire page */ 
+ }
+
+ h1 {
+     color: red;
+     
+ }
+
+ p { 
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+
