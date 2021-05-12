@@ -16,11 +16,13 @@ public class MediumQuestionThree {
         int i;
 
         while (x <= 4) {
-            x = x + 2;
-            if (x == 4) {
-                System.out.println("x is exactly 4");
+            x = x + 3;
+            if (x > 50) {
+                x = x - 1;
             }
-            
+            if (x == 50) {
+                System.out.println("x is exactly 50");
+            }  
         }
     }
 }
