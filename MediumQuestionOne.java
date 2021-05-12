@@ -12,6 +12,7 @@ public class MediumQuestionOne {
         double answer = (Math.pow(myNumber, 12.0) + 25) % 12;
         // Step 3: print 'answer'
         System.out.println(answer);
+        // Correct option is OptionThree
     }
 
     public static void OptionOne() {
