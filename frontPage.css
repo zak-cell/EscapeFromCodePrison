@@ -1,3 +1,11 @@
+img{ 
+    display: block;
+    margin-right : 400px;
+    position: fixed; top: 50px;
+    margin-left : 15px;
+}
+
+
  body {
      background-color: antiquewhite;  /* This sets the background color for the entire page */ 
  }
@@ -6,7 +14,7 @@
      color: red;
      background-color : black;
      padding: 100px;
-     width : 1305px;
+     width : 1705px;
      text-align: center;
      font-size: 50px;
      
@@ -17,7 +25,21 @@
      font-family: Arial, Helvetica, sans-serif;
      padding: 5px;
      text-align: justify;
+     font-size: 20px;
 
+ }
+
+ .button {
+    background-color: #4CAF50;    /* Sets the background color for the button */
+    border: none;
+    color:black;
+    padding: 20px 32px;             /* Just the padding */
+    text-align: center;
+    display: inline-block;
+    font-size: 56px;               /* This sets the size of the box of the button */
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 800px;
  }
 
 
