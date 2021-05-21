@@ -13,7 +13,6 @@ public class MediumQuestionThree {
 
     public static void OptionOne() {
         int x = 2;
-        int i;
 
         while (x <= 4) {
             x = x + 3;
@@ -22,7 +21,7 @@ public class MediumQuestionThree {
             }
             if (x == 50) {
                 System.out.println("x is exactly 50");
-            }  
+            }
         }
     }
 }
