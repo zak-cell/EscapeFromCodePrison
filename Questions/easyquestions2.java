@@ -1,4 +1,4 @@
-public class easyquestionsTwo {
+public class easyquestions2 {
     public static void main(String[] args) {
         
 // Question 2 : Syntax :

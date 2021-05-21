@@ -1,4 +1,4 @@
-public class easyquestionsOne {
+public class easyquestions1 {
 public static void main(String[] args) {
  
 // Question 1 : Variables and Assingments

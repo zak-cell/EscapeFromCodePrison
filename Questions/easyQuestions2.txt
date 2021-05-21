@@ -1,0 +1,25 @@
+//THIS IS THE QUESTION PROMPT//
+int x;
+int y;
+
+x = 2;
+y = 10;
+
+if(x < 5) 
+System.out.println(x);
+}
+
+else {
+    System.out.println(y)
+}
+
+//THESE ARE THE ANSWER OPTIONS//
+
+    - Incorrect use of whitespace in the first 'if' Condtion 
+    - No errors in the second condition 
+
+    - First 'if' condition is missing Curly Braces 
+    - Missing semi-colon in the second print statment
+
+    - Incorrect use of the System.out.print command
+    - Incorrect use of Logic within the Branches

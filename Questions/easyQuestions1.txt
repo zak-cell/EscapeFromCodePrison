@@ -1,0 +1,16 @@
+
+
+d - a;
+d - b;
+d - c;
+d - d;
+
+double a;
+double b;
+double c;
+double d;
+
+dbl a;
+dbl b;
+dbl c;
+dbl d;
