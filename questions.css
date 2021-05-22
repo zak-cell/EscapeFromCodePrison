@@ -1,7 +1,17 @@
 body {
     background: rgb(2,0,36);
-    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
+    background: radial-gradient(circle, rgba(30,30,30,0.2) 0%, rgba(212,212,212,0.5) 100%, rgba(0,212,255,0.5) 100%);
     font-family: Helvetica, Arial, sans-serif;
+}
+
+pre{
+    padding: 20px;
+    margin-top: 5px;
+    background-color: rgba(212,212,212,0.2);
+    text-align: justify;
+    color:#1e1e1e;
+    font-size: 20px;
+    font-family: "SF Mono Regular", monospace;
 }
 
 h1{
@@ -12,11 +22,19 @@ h1{
 h2{
     text-align: center;
     color: #1e1e1e;
+    background-color: rgba(212,212,212,0.5);
+}
+
+h3{
+    text-align: center;
+    padding: 5px;
+    color: rgba(212,212,212);
 }
 
 p {
     text-align: center;
-    color:#1e1e1e;
+    color:#1f1f1f;
+    background: fixed;
     padding: 10px;
     font-size: 20px;
 }
@@ -42,22 +60,20 @@ p {
 }
 
 .title{
-       text-align: center;
-       padding: 5px;
-       color: #d4d4d4;
+    text-align: center;
+    padding: 5px;
 }
 
 .des{
       text-align: center;
-
 }
 
 button{
-    margin-top: 5px;
-    margin-bottom: 5px;    
+    margin-top: 0px;
+    margin-bottom: 15px;
     background-color: #1e1e1e;
     padding-top: 5px;
-    width: 100px; 
+    width: 100px;
     cursor: pointer;
     color: #d4d4d4;
 }

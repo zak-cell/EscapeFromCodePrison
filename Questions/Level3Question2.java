@@ -1,4 +1,4 @@
-public class HardQuestionLoops {
+public class Level3Question2 {
     public static void main(String args[]) {
         for (int i = 0; i < 5; i++) {
             i++;

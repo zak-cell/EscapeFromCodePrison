@@ -1,0 +1,22 @@
+option 3 is correct
+
+
+
+String theString = "Wheres my hat";
+String midString;
+midString = theString.substring(3,11);
+System.out.println(theString);
+
+
+
+String theString = "Wheres my hat";
+String midString;
+midString = "eres my ";
+System.out.println(theString);
+
+
+
+String theString = "Wheres my hat";
+String midString;
+midString = theString.substring(3,11);
+System.out.println(midString);

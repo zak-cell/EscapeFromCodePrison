@@ -1,25 +1,24 @@
-public class HardQuestionVariable {
+public class Level3Question1 {
     public static void main(String args[]) {
-        int x = 1.25;
-        x = x + x;
-        System.out.print(x);
-
-        // What will be the output?
+        // What is the limit
+        // on the amount of
+        // "Else If" statements
+        // can you string together?
     }
 
     public static void AnswerOpt1() {
-        // 2.5
+        // 32
     }
 
     public static void AnswerOpt2() {
-        // 2.50
+        // 64
     }
 
     public static void AnswerOpt3() {
-        // 2
+        // 128
     }
 
     public static void AnswerOpt4() {
-        // Error
+        // No practical limit
     }
 }

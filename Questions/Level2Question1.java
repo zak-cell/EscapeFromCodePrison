@@ -1,16 +1,18 @@
-public class HardQuestionArrays {
+public class Level2Question1 {
     public static void main(String args[]) {
-        int[][][] array = new int[3][5][2];
-        // How many integers can fit
-        // into this array?
+        int x = 1.25;
+        x = x + x;
+        System.out.print(x);
+
+        // What is the output?
     }
 
     public static void AnswerOpt1() {
-        // 3
+        // 2.5
     }
 
     public static void AnswerOpt2() {
-        // 30
+        // 2.50
     }
 
     public static void AnswerOpt3() {

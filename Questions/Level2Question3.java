@@ -1,7 +1,7 @@
 /**
  * MediumQuestionTwo
  */
-public class MediumQuestionTwo {
+public class Level2Question3 {
 
     public static void main(String[] args) {
         /* Write a function for a string ‘midString’ that represents the middle 

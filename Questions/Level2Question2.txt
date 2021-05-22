@@ -1,0 +1,12 @@
+option 1 is correct
+
+
+30 integers can fit into that array
+
+
+
+3 integers can fit into that array
+
+
+
+It will return an error as that can't be done

@@ -1,7 +1,7 @@
 /**
  * MediumQuestions
  */
-public class MediumQuestionOne {
+public class Level3Question3 {
 
     public static void main(String[] args) {
 

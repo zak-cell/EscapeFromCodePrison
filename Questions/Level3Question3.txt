@@ -1,0 +1,16 @@
+option 2 is correct
+
+
+int myNumber = 10;
+int answer = (Math.pow(myNumber, 12.0) + 25) % 12;
+System.out.println(answer);
+
+
+double myNumber = 10.0;
+double answer = (Math.pow(myNumber, 12.0) + 25) % 12;
+System.out.println(answer);
+
+
+double powerNumber = 10.0;
+double answer = (Math.pow(powerNumber, 12.0) + 25) % 12;
+System.out.println(answer);

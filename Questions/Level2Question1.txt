@@ -1,0 +1,9 @@
+option 3 is correct
+
+The function will output 2.50
+
+
+The function will return an error
+
+
+The function will output 2

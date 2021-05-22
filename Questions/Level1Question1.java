@@ -1,4 +1,4 @@
-public class easyquestionsOne {
+public class Level1Question1 {
 public static void main(String[] args) {
  
 // Question 1 : Variables and Assingments
@@ -27,7 +27,7 @@ System.out.println ( a % d);
 
 
 
-public static void OptionOne() { // This is the answer
+public static void OptionOne() {
    System.out.print (c % b); =  5.0
    System.out.print (a % d); =  0.0
 

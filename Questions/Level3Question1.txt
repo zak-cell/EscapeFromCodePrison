@@ -1,0 +1,9 @@
+option 2 will be correct...
+
+You can string 32 together
+
+You can string 64 together
+
+You can string 128 together
+
+You can string an unlimited amount together
