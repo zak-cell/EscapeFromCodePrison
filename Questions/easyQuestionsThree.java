@@ -8,6 +8,7 @@ public class easyQuestionsThree {
 
  Scanner scnr = new Scanner (System.in);
  
+ 
 
 
 
