@@ -1,21 +1,21 @@
 img{ 
     display: block;
-    margin-right : 400px;
-    position: fixed; top: 115px;
+    margin-right : 20px;
     margin-left : 15px;
+    align-items: center;
 }
 
 
  body {
     background: rgb(2,0,36);
-    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(255,114,114,1) 100%, rgba(0,212,255,1) 100%);    /* This sets the background color for the entire page */ 
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(255,114,114,1) 100%, rgba(0,212,255,1) 100%);
+    text-align: center;    /* This sets the background color for the entire page */ 
  }
 
  h1 {                                   /* This declares what modifications need to be done to h1 */
      color: red;
      background-color : black;
      padding: 100px;
-     width : 1705px;
      text-align: center;
      font-size: 50px;
      
@@ -25,19 +25,17 @@ img{
  h3 {
      color :yellow;
      background-color: black;
-     padding: 15px 90px;
-     width : 1710px;
      font-size: 25px;
      text-align: center;
      
  }
 
  p {                                    /* Just Changing the font-type here and Justifying alingment */
-     font-family: Verdana, Geneva, Tahoma, sans-serif;
-     padding: 15px;
-     text-align: justify;
-     font-size: 20px;
-     color : white
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 15px;
+    text-align: justify;
+    font-size: 20px;
+    color : white
     
 
 
@@ -53,7 +51,7 @@ img{
     font-size: 56px;               /* This sets the size of the box of the button */
     margin: 4px 2px;
     cursor: pointer;
-    margin-left: 800px;
+    align-items: center;
  }
 
 

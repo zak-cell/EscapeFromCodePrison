@@ -6,13 +6,11 @@ body {
 }
 
 pre{
-    padding: 20px;
+    padding: 5px;
     margin-top: 5px;
     background-color: rgba(212,212,212,0.2);
     align-items: center;
     color:#1e1e1e;
-    font-size: 15px;
-    font-family: "SF Mono Regular", monospace;
 }
 
 h1{
@@ -47,7 +45,7 @@ p {
 .cards{
     max-width: 400px;
     display: inline-block;
-    margin: 37px;
+    margin: 20px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     background-color: rgba(30,30,30, 1);
     align-items: center;
