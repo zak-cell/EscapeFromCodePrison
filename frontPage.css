@@ -8,7 +8,9 @@ img{
  body {
     background: rgb(2,0,36);
     background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(255,114,114,1) 100%, rgba(0,212,255,1) 100%);
-    text-align: center;    /* This sets the background color for the entire page */ 
+    /* This sets the background color for the entire page */ 
+    text-align: center;
+    align-items: center;   
  }
 
  h1 {                                   /* This declares what modifications need to be done to h1 */
