@@ -2,7 +2,8 @@
 
 body {
     background: rgb(2,0,36);
-    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);    
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
+    text-align: center;   
 }
 
 
@@ -25,9 +26,8 @@ button{
     padding-top: 5px;
     width: 150px; 
     cursor: pointer;
-    margin-left: 1170px;
-    margin-left: 700px;
     font-size: 20px;
+    align-items: center;
 }
 
 button:hover{
@@ -38,9 +38,8 @@ button:hover{
 }
 
 p{
-    margin-left: 570px;
    color:black;
    font-size: 25px;
-   margin-right: 500px;
+   text-align: center;
 
 }
