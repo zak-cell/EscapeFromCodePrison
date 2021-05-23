@@ -1,19 +1,19 @@
 public class Level1Question2 {
     public static void main(String[] args) {
-        
-// Question 2 : Syntax :
-int x;
-int y;
+        int x;
+        int y;
 
-x = 2;
-y = 10;
+        x = 2;
+        y = 10;
 
-if( x < 5) 
-System.out.println(x);
-}
+        if (x < 5) 
+        System.out.println(x);
+        }
 
-else{
-    System.out.println(y)
+        else {
+            System.out.println(y)
+        }
+    }
 }
 
 // Answer : 

@@ -4,8 +4,8 @@ public class Level3Question2 {
             i++;
             System.out.println(i);
         }
-        // What is the output?
     }
+}
 
     public static void AnswerOpt1() {
         // 1

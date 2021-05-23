@@ -1,9 +1,8 @@
 public class Level2Question2 {
     public static void main(String args[]) {
         int[][][] array = new int[3][5][2];
-        // How many integers can fit
-        // into this array?
     }
+}
 
     public static void AnswerOpt1() {
         // 3

@@ -3,9 +3,8 @@ public class Level2Question1 {
         int x = 1.25;
         x = x + x;
         System.out.print(x);
-
-        // What is the output?
     }
+}
 
     public static void AnswerOpt1() {
         // 2.5

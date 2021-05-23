@@ -1,5 +1,14 @@
 option 3 is correct
 
+public class Level2Question1 {
+    public static void main(String args[]) {
+        int x = 1.25;
+        x = x + x;
+        System.out.print(x);
+    }
+}
+
+
 The function will output 2.50
 
 
@@ -7,3 +16,6 @@ The function will return an error
 
 
 The function will output 2
+
+
+

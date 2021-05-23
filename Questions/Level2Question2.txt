@@ -1,6 +1,14 @@
 option 1 is correct
 
 
+public class Level2Question2 {
+    public static void main(String args[]) {
+        int[][][] array = new int[3][5][2];
+    }
+}
+
+
+
 30 integers can fit into that array
 
 
@@ -10,3 +18,6 @@ option 1 is correct
 
 
 It will return an error as that can't be done
+
+
+
