@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Level1Question3",
+            "request": "launch",
+            "mainClass": "Level1Question3",
+            "projectName": "EscapeFromCodePrison_904db509"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}",
