@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="frontPage.css">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>    
+
+
+
+    
+<body>
+
+    <audio autoplay controls>
+        <source src="Jarico - Island [NCS BEST OF].mp3" type="audio/ogg">
+        <source src="Jarico - Island [NCS BEST OF].mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+     
+
+    <h1> ESCAPE FROM CODE PRISON! </h1>
+    <img src="Images/prison-doors.jpg" alt="Prison Doors" style="width:20%;"> 
+
+        <div class = "Subheading"> <! This is information about the Game >
+
+         <h3>Welcome to <b>Escape from Code Prison</b>.</h3> 
+        </div>      
+       
+        <br>
+
+        <div class="Game Information">
+
+    <p>In this fun and educational game, 
+        your challenge is to escape the different prisons located within the game
+         by answering various programming questions taught to you in class. </p>
+    
+
+        <p>Each Prison has a different level-difficulty ( Easy, Medium, and Hard )
+           and unique sets of questions.</p>
+
+        <br> <p>Good luck with your escape!</p>
+         <p> Click <q>PLAY </q> below to start your Game.</p>
+        
+        </div>
+        
+        <div class = "Footer">  <! This is for the footer of the First Page >
+
+        <br> 
+
+        <hr>
+        
+            <! When user clicks this, they should be re-directed to the Game Page or Second Page >
+            <a href="secondPage.html" class="button">PLAY!</a>
+              
+
+        
+        <hr>    
+    </div>
+    
+    </body>
+</html>
+
+
+
