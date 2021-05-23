@@ -1,3 +1,4 @@
+/* This CSS FILE is only when User Solves Finshing the Last Question of 3rd Level */
 
 body {
     background: rgb(2,0,36);
@@ -19,13 +20,13 @@ h1 {
 
 button{
     margin-top: 5px;
-    margin-bottom: 5px;    
+    margin-bottom: 15px;    
     background-color: green;
     padding-top: 5px;
     width: 150px; 
     cursor: pointer;
-    margin-left: 680px;
-    margin-top: 20px;
+    margin-left: 1170px;
+    margin-left: 700px;
     font-size: 20px;
 }
 
@@ -34,4 +35,12 @@ button:hover{
     color: white;
     transition: 0.05s;
     cursor: pointer;
+}
+
+p{
+    margin-left: 570px;
+   color:black;
+   font-size: 25px;
+   margin-right: 500px;
+
 }
